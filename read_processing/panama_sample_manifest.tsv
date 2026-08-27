@@ -1,0 +1,39 @@
+run_accession	library_name	reprocessed_2025	reprocessed_bam_supplied_to_maria	original_panel_status	final_n10	notes
+SRR24007593	Ac_PA_Tet2	yes	no	retained	yes	Reprocessed BAM had a file-size/QC issue; previously processed original-panel BAM was retained.
+SRR24007594	NA	no	no	clone_removed	no	Removed after it was identified as a clone of SRR24007597.
+SRR24007597	Ac_PA_CK42	no	no	retained	yes	Previously processed original-panel sample.
+SRR24007598	Ac_PA_CK41	yes	yes	not_original	no	
+SRR24007600	Ac_PA_CK147	yes	yes	not_original	no	
+SRR24007601	Ac_PA_CK146	yes	yes	not_original	yes	Selected as one of six additional unique Panama samples.
+SRR24007602	Ac_PA_CK145	yes	yes	not_original	yes	Selected as one of six additional unique Panama samples.
+SRR24007603	Ac_PA_CK144	yes	yes	not_original	yes	Selected as one of six additional unique Panama samples.
+SRR24007604	Ac_PA_CK143	yes	yes	not_original	no	
+SRR24007605	Ac_PA_CK142	yes	yes	not_original	no	
+SRR24007606	Ac_PA_CK141	yes	yes	not_original	no	
+SRR24007608	Ac_PA_CK1410	yes	yes	not_original	yes	Selected as one of six additional unique Panama samples.
+SRR24007609	Ac_PA_CK140	yes	no	retained	yes	Already represented by a previously processed original-panel BAM.
+SRR24007650	Ac_PA_Tet1	yes	yes	not_original	no	
+SRR24007651	Ac_PA_SR9	yes	yes	not_original	no	
+SRR24007652	Ac_PA_SR8	yes	yes	not_original	yes	Selected as one of six additional unique Panama samples.
+SRR24007653	Ac_PA_SR7	yes	yes	not_original	no	
+SRR24007654	Ac_PA_SR6	yes	yes	not_original	no	
+SRR24007655	Ac_PA_SR5	yes	yes	not_original	no	
+SRR24007656	Ac_PA_SR4	yes	yes	not_original	no	
+SRR24007657	Ac_PA_SR3	yes	yes	not_original	no	
+SRR24007659	Ac_PA_SR2	yes	no	retained	yes	Already represented by a previously processed original-panel BAM.
+SRR24007660	Ac_PA_SR1	yes	yes	not_original	no	
+SRR24007661	Ac_PA_SR10	yes	yes	not_original	yes	Selected as one of six additional unique Panama samples.
+SRR24007662	Ac_PA_HS9	yes	yes	not_original	no	
+SRR24007663	Ac_PA_HS8	yes	yes	not_original	no	
+SRR24007664	Ac_PA_HS7	yes	yes	not_original	no	
+SRR24007665	Ac_PA_HS6	yes	yes	not_original	no	
+SRR24007666	Ac_PA_HS5	yes	yes	not_original	no	
+SRR24007667	Ac_PA_HS4	yes	yes	not_original	no	
+SRR24007668	Ac_PA_HS3	yes	yes	not_original	no	
+SRR24007670	Ac_PA_HS2	yes	yes	not_original	no	
+SRR24007671	Ac_PA_HS1	yes	yes	not_original	no	
+SRR24007672	Ac_PA_HS10	yes	yes	not_original	no	
+SRR24007673	Ac_PA_CK49	yes	yes	not_original	no	
+SRR24007674	Ac_PA_CK48	yes	no	not_original	no	Excluded after reprocessing because the resulting BAM was unusually small.
+SRR24007675	Ac_PA_CK47	yes	yes	not_original	no	
+SRR24007676	Ac_PA_CK46	yes	yes	not_original	no	
