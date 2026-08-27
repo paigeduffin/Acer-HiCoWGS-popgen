@@ -1,0 +1,36 @@
+# Raw sequencing reads and SRA downloads
+*.sra
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# References and alignments
+*.fa
+*.fasta
+*.fna
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+*.sam
+*.bam
+*.bai
+*.csi
+
+# Variant datasets and indexes
+*.vcf
+*.vcf.gz
+*.bcf
+*.tbi
+
+# Pipeline reports and scheduler logs
+fastp_reports/
+*.out
+*.err
+
+# Local operating-system and Python files
+.DS_Store
+__pycache__/
+*.pyc
