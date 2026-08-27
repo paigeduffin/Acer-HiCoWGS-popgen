@@ -38,13 +38,14 @@ in this repository:
 
 - Read processing for newly sequenced samples; joint genotyping; EEMS;
   nucleotide diversity, Tajima’s D, and private-allele analyses; SMC++;
-  and symbiont analyses were conducted by Maria and are available in her
-  associated GitHub repository **[link to be added]**.
-- Runs of homozygosity and genome-wide heterozygosity analyses were conducted
-  by Trinity; associated code will be supplied separately.
-- CurrentNe2 analyses and selection scans other than the K = 5 meadow-level
-  analyses were conducted by other collaborators; associated code will be
-  supplied separately.
+  CurrentNe2; K=1 selection scans; and symbiont analyses were conducted 
+  by Maria and are available in her associated GitHub repository: 
+  https://github.com/mruggeri55/Acer-HiCoWGS-popgen/tree/main
+- Runs of homozygosity, genome-wide heterozygosity, and K=5 locus-based 
+  selection scan analyses were conducted by Trinity Conn and are 
+  available in her associated GitHub repository: 
+  [insert link when made available]
+
 
 ## Reproducibility notes
 
