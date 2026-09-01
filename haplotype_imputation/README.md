@@ -5,6 +5,16 @@ haplotype panel, impute the 330-sample low-coverage dataset, and assess accuracy
 using five samples sequenced at both high and low coverage. The recorded
 validation used the complete 44-sample reference panel.
 
+The five samples sequenced at both high and low coverage to calculate 
+imputation accuracy are: 
+| # | HiCo ID | LoCo ID |
+|---|---|---|
+| 1 | CRF_Acer-059 | ID_CRF_Acer59 |
+| 2 | Mote_AC75 | ID_MML_ML75 |
+| 3 | Mote_AC76 | ID_MML_ML76 |
+| 4 | Mote_AC80 | ID_MML_ML80 |
+| 5 | DRTO_114 | ID_DRTO_114 |
+
 Large input files, reference genomes, BAMs, VCFs, and software executables are
 not stored in this repository.
 
